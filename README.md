@@ -1,5 +1,5 @@
 # Rossman Sales Prediction App
 
-Site: https://myntxyz.herokuapp.com/apidocs
+<b>Site:</b> https://myntxyz.herokuapp.com/apidocs
 
-Sample Data: https://raw.githubusercontent.com/ijoseff/mynt/main/Train_Head.csv
+<b>Sample Data:</b> https://raw.githubusercontent.com/ijoseff/mynt/main/Train_Head.csv (Save As)
