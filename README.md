@@ -1,4 +1,4 @@
-# mynt
+# Rossman Sales Prediction App
 
 Site: https://myntxyz.herokuapp.com/apidocs
 
